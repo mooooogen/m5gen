@@ -1,4 +1,18 @@
 # m5gen
+
+### 스터디원
+<table>
+  <tbody>
+    <tr>
+        <td align="center"><a href="https://github.com/elsa-kim"><img src="https://avatars.githubusercontent.com/u/116364101?v=4" width="100px;" alt=""/><br /><sub><b> 김소현 </b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/Baehyunsu20"><img src="https://avatars.githubusercontent.com/u/75521809?v=4" width="100px;" alt=""/><br /><sub><b> 배현수 </b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/honghangmon"><img src="https://avatars.githubusercontent.com/u/175167640?v=4" width="100px;" alt=""/><br /><sub><b> 이윤준 </b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/bosung17"><img src="https://avatars.githubusercontent.com/u/175131929?v=4" width="100px;" alt=""/><br /><sub><b> 최보성 </b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## How to Study 👩🏻‍💻👨🏻‍💻
 ### Issue 🚩
 - 같이 풀 문제는 **Issue** 에 작성합니다.
