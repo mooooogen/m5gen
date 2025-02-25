@@ -1,5 +1,5 @@
-package 평범한배낭;
-//2차원 배열을 이용
+package BOJ2477;
+//2차원 배열을 이용 (평범한배낭)
 import java.util.*;
 public class Main {
 	

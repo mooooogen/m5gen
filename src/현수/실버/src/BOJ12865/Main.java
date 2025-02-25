@@ -1,4 +1,4 @@
-package 참외밭;
+package BOJ12865;
 import java.util.Scanner;
 
 //신발끈 공식 : 육각형은 확실하기에 6개의 꼭짓점 좌표를 연산
